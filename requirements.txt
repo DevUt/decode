@@ -1,7 +1,5 @@
-glob
 numpy
 rasterio
-pickle
 opencv-python
 pathos
 mxnet < 2.0
